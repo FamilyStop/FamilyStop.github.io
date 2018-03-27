@@ -1,0 +1,224 @@
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="familystoponline.com" resolutions="1x" timestamp="1522133157142">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="index.css" crc="4023087160" ref="index"/>
+    <file name="iefonts_index.css" crc="3767324794" ref="index"/>
+    <file name="home-copy.css" crc="292600405" ref="home-copy"/>
+    <file name="iefonts_home-copy.css" crc="59866284" ref="home-copy"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:home-copy"/>
+    <file name="museutils.js" crc="3803043152" ref="index:home-copy"/>
+    <file name="whatinput.js" crc="86476730" ref="index:home-copy"/>
+    <file name="museconfig.js" crc="380897831" ref="index:home-copy"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="index:home-copy"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index:home-copy"/>
+    <file name="webpro.js" crc="242022427" ref="index:home-copy"/>
+    <file name="musewpslideshow.js" crc="457073769" ref="index:home-copy"/>
+    <file name="jquery.museoverlay.js" crc="483674903" ref="index:home-copy"/>
+    <file name="touchswipe.js" crc="4066113679" ref="index:home-copy"/>
+    <file name="form_check.php" crc="147359589" ref="index"/>
+    <file name="form_throttle.php" crc="93986428" ref="index"/>
+    <file name="form_process.php" crc="3851993751" ref="index"/>
+    <file name="form-u607.php" crc="4183752561" ref="index"/>
+    <file name="form-u1273.php" crc="4222480949" ref="index"/>
+    <file name="jquery.musemenu.js" crc="3784699396" ref="index:home-copy"/>
+    <file name="jquery.scrolleffects.js" crc="530399994" ref="index:home-copy"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:home-copy"/>
+    <file name="require.js" crc="4157109226" ref="index:home-copy"/>
+    <file name="form-u2436.php" crc="354764138" ref="home-copy"/>
+    <file name="musewpdisclosure.js" crc="119288625" ref="home-copy"/>
+    <file name="form-u2711.php" crc="3934284386" ref="home-copy"/>
+  </folder>
+  <folder name="images">
+    <file name="untitled.jpg" crc="477529527" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logo_transparent_background.png" crc="54486752" seo="true" ref="index:home-copy">
+      <caption webpage="index" alt=""/>
+      <caption webpage="home-copy" alt=""/>
+    </file>
+    <file name="display.png" crc="3915822748" seo="true" ref="index:home-copy">
+      <caption webpage="index" alt=""/>
+      <caption webpage="home-copy" alt=""/>
+    </file>
+    <file name="family-and-holiday-decorations_925x.jpg" crc="3777552674" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="400h.jpg" crc="3875278008" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pexels-photo-373328.jpg" crc="488971186" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="shutterstock_150802598.jpg" crc="524696689" ref="index:home-copy">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="gift-brown-shopping-market.jpg" crc="3906664877" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="shutterstock_154872761.jpg" crc="337048551" ref="index:home-copy">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pexels-photo-230544.jpg" crc="496700575" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="facebook.png" crc="3937578975" ref="index:home-copy">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="home-copy" alt=""/>
+      <caption webpage="home-copy" alt=""/>
+    </file>
+    <file name="google plus.png" crc="3862269386" ref="index:home-copy">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="home-copy" alt=""/>
+      <caption webpage="home-copy" alt=""/>
+    </file>
+    <file name="skype.png" crc="3961734618" ref="index:home-copy">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="home-copy" alt=""/>
+      <caption webpage="home-copy" alt=""/>
+    </file>
+    <file name="twitter.png" crc="4078170562" ref="index:home-copy">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="home-copy" alt=""/>
+      <caption webpage="home-copy" alt=""/>
+    </file>
+    <file name="youtube.png" crc="402982861" ref="index:home-copy">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="home-copy" alt=""/>
+      <caption webpage="home-copy" alt=""/>
+    </file>
+    <file name="check_prices_rounded_solid-128.png" crc="356278410" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="guarantee-128.png" crc="535585402" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="shopping-mobile-online-marketing-store-app-application-128.png" crc="4095818697" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="prompt-2-128.png" crc="145935569" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="if_67-amazon_104435.png" crc="4147693438" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="if_79-ebay_104423.png" crc="3964817239" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="if_etsy_401424 (2).jpg" crc="4108599773" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="walmart-logo-white_small.jpg" crc="4249401533" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="1160x700.gif" crc="4117519623" ref="home-copy">
+      <caption webpage="home-copy" alt=""/>
+    </file>
+    <file name="436x251.gif" crc="4121705064" ref="home-copy">
+      <caption webpage="home-copy" alt=""/>
+    </file>
+    <file name="295x225.gif" crc="4023790999" seo="true" ref="home-copy">
+      <caption webpage="home-copy" alt=""/>
+      <caption webpage="home-copy" alt=""/>
+      <caption webpage="home-copy" alt=""/>
+      <caption webpage="home-copy" alt=""/>
+      <caption webpage="home-copy" alt=""/>
+      <caption webpage="home-copy" alt=""/>
+      <caption webpage="home-copy" alt=""/>
+      <caption webpage="home-copy" alt=""/>
+      <caption webpage="home-copy" alt=""/>
+      <caption webpage="home-copy" alt=""/>
+      <caption webpage="home-copy" alt=""/>
+      <caption webpage="home-copy" alt=""/>
+      <caption webpage="home-copy" alt=""/>
+      <caption webpage="home-copy" alt=""/>
+      <caption webpage="home-copy" alt=""/>
+      <caption webpage="home-copy" alt=""/>
+      <caption webpage="home-copy" alt=""/>
+      <caption webpage="home-copy" alt=""/>
+      <caption webpage="home-copy" alt=""/>
+      <caption webpage="home-copy" alt=""/>
+      <caption webpage="home-copy" alt=""/>
+      <caption webpage="home-copy" alt=""/>
+      <caption webpage="home-copy" alt=""/>
+      <caption webpage="home-copy" alt=""/>
+      <caption webpage="home-copy" alt=""/>
+      <caption webpage="home-copy" alt=""/>
+      <caption webpage="home-copy" alt=""/>
+      <caption webpage="home-copy" alt=""/>
+      <caption webpage="home-copy" alt=""/>
+      <caption webpage="home-copy" alt=""/>
+      <caption webpage="home-copy" alt=""/>
+      <caption webpage="home-copy" alt=""/>
+      <caption webpage="home-copy" alt=""/>
+      <caption webpage="home-copy" alt=""/>
+      <caption webpage="home-copy" alt=""/>
+      <caption webpage="home-copy" alt=""/>
+      <caption webpage="home-copy" alt=""/>
+      <caption webpage="home-copy" alt=""/>
+      <caption webpage="home-copy" alt=""/>
+      <caption webpage="home-copy" alt=""/>
+      <caption webpage="home-copy" alt=""/>
+      <caption webpage="home-copy" alt=""/>
+      <caption webpage="home-copy" alt=""/>
+      <caption webpage="home-copy" alt=""/>
+      <caption webpage="home-copy" alt=""/>
+      <caption webpage="home-copy" alt=""/>
+      <caption webpage="home-copy" alt=""/>
+      <caption webpage="home-copy" alt=""/>
+      <caption webpage="home-copy" alt=""/>
+      <caption webpage="home-copy" alt=""/>
+      <caption webpage="home-copy" alt=""/>
+      <caption webpage="home-copy" alt=""/>
+      <caption webpage="home-copy" alt=""/>
+      <caption webpage="home-copy" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="home-copy"/>
+    <file name="loading.gif" crc="3815509949" ref="home-copy"/>
+    <file name="292x161.gif" crc="4099539391" ref="home-copy">
+      <caption webpage="home-copy" alt=""/>
+    </file>
+    <file name="brush copy.png" crc="324267470" ref="home-copy">
+      <caption webpage="home-copy" alt=""/>
+      <caption webpage="home-copy" alt=""/>
+      <caption webpage="home-copy" alt=""/>
+    </file>
+    <file name="camera-2 copy.png" crc="4174730589" ref="home-copy">
+      <caption webpage="home-copy" alt=""/>
+      <caption webpage="home-copy" alt=""/>
+      <caption webpage="home-copy" alt=""/>
+    </file>
+    <file name="case-2 copy.png" crc="470774022" ref="home-copy">
+      <caption webpage="home-copy" alt=""/>
+      <caption webpage="home-copy" alt=""/>
+      <caption webpage="home-copy" alt=""/>
+    </file>
+    <file name="network copy.png" crc="4199287906" ref="home-copy">
+      <caption webpage="home-copy" alt=""/>
+      <caption webpage="home-copy" alt=""/>
+      <caption webpage="home-copy" alt=""/>
+    </file>
+    <file name="off copy.png" crc="409678726" ref="home-copy">
+      <caption webpage="home-copy" alt=""/>
+      <caption webpage="home-copy" alt=""/>
+      <caption webpage="home-copy" alt=""/>
+      <caption webpage="home-copy" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="231564215" seo="true" mt="1522132825604" redirect="true"/>
+  <file name="home-copy.html" crc="420760356" seo="true" mt="1522131630276" redirect="true"/>
+</manifest>
