@@ -1,10 +1,10 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="familystoponline.com" resolutions="1x" timestamp="1522133157142">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="familystoponline.com" resolutions="1x" timestamp="1522206165253">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="4023087160" ref="index"/>
-    <file name="iefonts_index.css" crc="3767324794" ref="index"/>
     <file name="home-copy.css" crc="292600405" ref="home-copy"/>
     <file name="iefonts_home-copy.css" crc="59866284" ref="home-copy"/>
+    <file name="index.css" crc="3918193844" ref="index"/>
+    <file name="iefonts_index.css" crc="4038225994" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:home-copy"/>
@@ -219,6 +219,6 @@
       <caption webpage="home-copy" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="231564215" seo="true" mt="1522132825604" redirect="true"/>
-  <file name="home-copy.html" crc="420760356" seo="true" mt="1522131630276" redirect="true"/>
+  <file name="index.html" crc="492892644" seo="true" mt="1522206117913" redirect="true"/>
+  <file name="home-copy.html" crc="3944545949" seo="true" mt="1522131630276" redirect="true"/>
 </manifest>
